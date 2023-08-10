@@ -1,0 +1,2 @@
+anime style, ultra-detailed, masterpiece, best quality, souryuu asuka langley sitting in a train car in the morning, half-lit by the dawn sun, a tear on her cheek, hands on knees, tokyo-3_middle_school_uniform, red ribbon, white shirt, short sleeves, suspender skirt, the atmosphere of loneliness and longing, 
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1059768093, Size: 1024x1024, Model hash: a83479259a, Model: Bluepencil, Version: 1.5.1

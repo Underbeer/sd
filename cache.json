@@ -1,0 +1,40 @@
+{
+    "hashes": {
+        "checkpoint/Bluepencil.safetensors": {
+            "mtime": 1691633565.1622653,
+            "sha256": "a83479259a7e75f6e4e5f849bda02d85572e091af8aab25e6d48b4cfef929c1b"
+        }
+    },
+    "extensions-git": {
+        "batchlinks-webui": {
+            "mtime": 1691633466.1218987,
+            "value": {
+                "remote": "https://github.com/etherealxx/batchlinks-webui",
+                "commit_date": 1683116614,
+                "branch": "main",
+                "commit_hash": "d44bbb5e2a043f2eed80c3945c0f2c676e41d0e5",
+                "version": "d44bbb5e"
+            }
+        },
+        "sd-civitai-browser": {
+            "mtime": 1691633464.477743,
+            "value": {
+                "remote": "https://github.com/camenduru/sd-civitai-browser",
+                "commit_date": 1681300845,
+                "branch": "main",
+                "commit_hash": "bcab79b25ea21fb7e513f3681ea7fd3bd167d00a",
+                "version": "bcab79b2"
+            }
+        },
+        "tunnels": {
+            "mtime": 1691633465.3028212,
+            "value": {
+                "remote": "https://github.com/camenduru/tunnels",
+                "commit_date": 1687954797,
+                "branch": "main",
+                "commit_hash": "fc7fc8109a84f2de1a83c35072c3211c75d93c0d",
+                "version": "fc7fc810"
+            }
+        }
+    }
+}
